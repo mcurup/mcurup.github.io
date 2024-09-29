@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mcurup.github.io/sSm/sitemap.sSm.gz
